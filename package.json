@@ -1,0 +1,34 @@
+{
+  "name": "node-garmin-connect",
+  "description": "node.js library for Garmin Connect",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [ "node-garmin-connect", "garmin", "connect", "garmin connect" ],
+  "tags": [ "node-garmin-connect", "garmin", "connect", "garmin connect" ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cbetz/node-garmin-connect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cbetz/node-garmin-connect/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/cbetz/node-garmin-connect/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "request": "2.11.4"
+  },
+  "engines": {
+    "node": ">= 0.4.x"
+  },
+  "homepage": "https://github.com/cbetz/node-garmin-connect",
+  "author": "Chris Betz (http://cbetz.com)",
+  "directories": {
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
